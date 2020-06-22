@@ -34,9 +34,18 @@ Before getting started it's recommended you understand the following:
 * [axe - Web Accessibility Testing](https://chrome.google.com/webstore/detail/axe-web-accessibility-tes/lhdoppojpmngadmnindnejefpokejbdd)
 * [Accessibility Insights for Web](https://chrome.google.com/webstore/detail/accessibility-insights-fo/pbjjkligggfmakdaogkfomddhfmpjeni)
 * [HTML5 Outliner](https://chrome.google.com/webstore/detail/html5-outliner/afoibpobokebhgfnknfndkgemglggomo)
+* [Color Contrast Analyzer](https://chrome.google.com/webstore/detail/color-contrast-analyzer/dagdlcijhfbmgkjokkjicnnfimlebcll)
+
+### Plugins
+* [eslint-plugin-jsx](https://github.com/jsx-eslint/eslint-plugin-jsx-a11y#readme)
+* [storybook-addon-a11y](https://github.com/storybookjs/storybook/tree/next/addons/a11y)
 
 #### Tooling
-* [tota11y](https://github.com/Khan/tota11y]
+* [axe-core](https://github.com/dequelabs/axe-core)
+* [jest-axe](https://github.com/nickcolley/jest-axe)
+* [cypress-axe](https://github.com/avanslaars/cypress-axe)
+* [tota11y](https://github.com/Khan/tota11y)
+* [lighthouse](https://github.com/GoogleChrome/lighthouse)
 
 ---
 
