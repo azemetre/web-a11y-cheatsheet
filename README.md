@@ -49,6 +49,12 @@ Before getting started it's recommended you understand the following:
 
 ---
 
+### [free resources](#freeresources)
+
+* [Learn Accessibility by MDN](https://developer.mozilla.org/en-US/docs/Learn/Accessibility)
+
+---
+
 ### [paid resources](#paidresouces)
 * [Accessibility in JavaScript Applications by Marcy Sutton](https://frontendmasters.com/workshops/javascript-accessibility/)
 * [Deque University Full Curriculum](https://dequeuniversity.com/curriculum/packages/full)
