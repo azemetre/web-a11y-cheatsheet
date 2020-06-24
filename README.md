@@ -52,6 +52,8 @@ Before getting started it's recommended you understand the following:
 ### [free resources](#freeresources)
 
 * [Learn Accessibility by MDN](https://developer.mozilla.org/en-US/docs/Learn/Accessibility)
+* [Microsoft Inclusive Design Methodology](https://www.microsoft.com/design/inclusive/)
+* [Microsoft Inclusive Toolkit Manual (PDF)](https://download.microsoft.com/download/b/0/d/b0d4bf87-09ce-4417-8f28-d60703d672ed/inclusive_toolkit_manual_final.pdf)
 
 ---
 
