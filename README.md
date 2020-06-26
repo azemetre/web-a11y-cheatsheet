@@ -62,12 +62,16 @@ Before getting started it's recommended you understand the following:
 #### Books
 * [Microsoft Inclusive Toolkit Manual (PDF)](https://download.microsoft.com/download/b/0/d/b0d4bf87-09ce-4417-8f28-d60703d672ed/inclusive_toolkit_manual_final.pdf)
 
+### Courses
+* [Develop Accessible Web Apps with React by Erin Doyle - egghead.io](https://egghead.io/courses/develop-accessible-web-apps-with-react)
+
 ---
 
 ### [paid resources](#paidresouces)
-* [Accessibility in JavaScript Applications by Marcy Sutton](https://frontendmasters.com/workshops/javascript-accessibility/)
-* [Deque University Full Curriculum](https://dequeuniversity.com/curriculum/packages/full)
-* [Develop Accessible Web Apps with React by Erin Doyle](https://egghead.io/courses/develop-accessible-web-apps-with-react)
-* [Start Building Accessible Web Applications Today by Marcy Sutton](https://egghead.io/courses/start-building-accessible-web-applications-today)
+
+#### Courses
+* [Accessibility in JavaScript Applications by Marcy Sutton - frontendmasters.com](https://frontendmasters.com/workshops/javascript-accessibility/)
+* [Deque University Full Curriculum - dequeuniveristy.com](https://dequeuniversity.com/curriculum/packages/full)
+* [Start Building Accessible Web Applications Today by Marcy Sutton - egghead.io](https://egghead.io/courses/start-building-accessible-web-applications-today)
 
 **PLEASE NOTE:** I do not know or work with the above people or organizations, simply recommending good resources.
