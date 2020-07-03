@@ -1,5 +1,7 @@
 # React + a11y Cheatsheet
 #### ([cause I can't go a day without you](https://www.youtube.com/watch?v=3xDzUFNbDy0#t=1m24s))
+
+![MIT license badge](https://img.shields.io/github/license/azemetre/react-a11y-cheatsheet)
 ---
 Cheatsheet for React developers getting started with a11y.
 
@@ -10,10 +12,14 @@ WIP for now, but the need is real.
 ---
 Table of contents:
 * [prerequisites](#prereqs)
-* [screen readers](#screenreaders)
+* [why a11y?](#why)
+* [react specific examples](#react)
+* [gotchas](#gotchas)
+* [assistive technology](#at)
 * [extensions, plugins, and tooling](#tools)
 * [free resources](#freeresources)
 * [paid resources](#paidresources)
+* [glossary](#glossary)
 ---
 
 ### [prerequisites](#prereqs)
@@ -25,8 +31,43 @@ Before getting started it's recommended you understand the following:
 
 ---
 
-### [screen readers](#screenreaders)
-[Voice Over keyboard shortcuts](https://dequeuniversity.com/screenreaders/voiceover-keyboard-shortcuts)
+
+### [prerequisites](#prereqs)
+
+Before getting started it's recommended you understand the following:
+* [semantic HTML](https://developer.mozilla.org/en-US/docs/Glossary/Semantics#Semantics_in_HTML)
+* [refs in react](https://reactjs.org/docs/refs-and-the-dom.html)
+* [browser events](https://developer.mozilla.org/en-US/docs/Web/Guide/Events/Event_handlers) and [handling events in react](https://reactjs.org/docs/handling-events.html)
+
+---
+
+### [assistive technology](#at)
+Assistive technology (AT) are the tools and equipment people use to interact with your application or site. Some examples of AT include [braille displays](https://en.wikipedia.org/wiki/Refreshable_braille_display), allowing blind users to understand what's on their screen in real time, or [VoiceOver](https://www.apple.com/accessibility/mac/vision/), converts text to speech.
+
+Many of these technologies can change the way a website is displayed or how a user will interact. To read or learn more about assistive technology please follow the [Assistive Technology Industry Association](https://www.atia.org/).
+
+#### Common Usage
+Screen readers are a typical use case of AT.
+
+#### [WebAIM 2019 Screen Reader Survey](https://webaim.org/projects/screenreadersurvey8/)
+Surveys done by WebAIM are a treasure trove of insight when assessing what types of tools and platforms you should be targeting to make a11y compliant sites. Some of the key take aways:
+* 71.% of respondents exclusively rely on screen reader audio for their usage.
+* For all major platforms (Desktop, Laptop, Mobile device/Tablet) more respondants use screen readers, ranging from 67% to 86%.
+* The top 3 screen readers actively used on desktop/laptop: NVDA at 72%, JAWS at 61%, and VoiceOver at 47%,
+* Most common screen reader and browser combinations: JAWS with Chrome at 21%, NVDA with Firefox at 19%, NVDA with Chrome at 18%, JAWS with Internet Explorer at 11%, VoiceOver with Safari at 9%
+* What is your primary mobile/tablet platform: Apple iPhone, iPad, or iPod touch at 69% and Android at 27%
+* Mobile screen reaers used: VoiceOver at 71%, TalkBack for Android at 33%
+
+While JAWS is a paid tool, usage of NVDA and VoiceOver are more than sufficient to cover the largest audience for both mobile and non-mobile platforms.
+
+[NVDA is freely available on Windows](https://www.nvaccess.org/)
+
+#### How to set up various voice over tools, enable keyboard accessibility, and keyboard shortcuts
+[NVDA Keyboard Shortcuts](https://dequeuniversity.com/screenreaders/nvda-keyboard-shortcuts)
+[Talkback Gestures on Android](Talkback Gestures on Android)
+[VoiceOver Keyboard Shortcuts on a Mac](https://dequeuniversity.com/screenreaders/voiceover-keyboard-shortcuts)
+[VoiceOver Gestures on iOS](https://dequeuniversity.com/screenreaders/voiceover-ios-shortcuts)
+[Enabling Keyboard Accessibility on a Mac](https://dequeuniversity.com/mac/keyboard-access-mac)
 
 ---
 
@@ -62,7 +103,7 @@ Before getting started it's recommended you understand the following:
 #### Books
 * [Microsoft Inclusive Toolkit Manual (PDF)](https://download.microsoft.com/download/b/0/d/b0d4bf87-09ce-4417-8f28-d60703d672ed/inclusive_toolkit_manual_final.pdf)
 
-### Courses
+#### Courses
 * [Develop Accessible Web Apps with React by Erin Doyle - egghead.io](https://egghead.io/courses/develop-accessible-web-apps-with-react)
 
 ---
@@ -75,3 +116,17 @@ Before getting started it's recommended you understand the following:
 * [Start Building Accessible Web Applications Today by Marcy Sutton - egghead.io](https://egghead.io/courses/start-building-accessible-web-applications-today)
 
 **PLEASE NOTE:** I do not know or work with the above people or organizations, simply recommending good resources.
+
+### [glossary](#glossary)
+
+<details><summary>glossary</summary>
+  
+* **a11y** (accessibility)
+  * a11y is a [numeronym](https://en.wikipedia.org/wiki/Numeronym) for accessibility
+* **assistive technology**
+  * the tools and equipment people use to interact with your application or site. examples include: screen readers, screen magnification software, or alternative input displays suchas head pointers, motion tracking, or large-print and tactile keyboards
+* **accessibility tree** (accessibility object model)
+  * contains accessiblity-related information for most HTML elements.
+</details>
+
+---
