@@ -1,4 +1,4 @@
-# React + a11y Cheatsheet
+# Web a11y Cheatsheet
 #### ([cause I can't go a day without you](https://www.youtube.com/watch?v=3xDzUFNbDy0#t=1m24s))
 
 ![MIT license badge](https://img.shields.io/github/license/azemetre/react-a11y-cheatsheet) ![contributor count](https://img.shields.io/github/contributors/azemetre/react-a11y-cheatsheet)
@@ -13,7 +13,6 @@ WIP for now, but the need is real.
 Table of contents:
 * [prerequisites](#prereqs)
 * [why a11y?](#why)
-* [react specific examples](#react)
 * [gotchas](#gotchas)
 * [assistive technology](#at)
 * [extensions, plugins, and tooling](#tools)
@@ -26,18 +25,19 @@ Table of contents:
 
 Before getting started it's recommended you understand the following:
 * [semantic HTML](https://developer.mozilla.org/en-US/docs/Glossary/Semantics#Semantics_in_HTML)
-* [refs in react](https://reactjs.org/docs/refs-and-the-dom.html)
-* [browser events](https://developer.mozilla.org/en-US/docs/Web/Guide/Events/Event_handlers) and [handling events in react](https://reactjs.org/docs/handling-events.html)
+* [browser events](https://developer.mozilla.org/en-US/docs/Web/Guide/Events/Event_handlers)
+* [How accessibility trees inform assistive tech](https://reactjs.org/docs/refs-and-the-dom.html)
+* [the accessibility tree](https://developers.google.com/web/fundamentals/accessibility/semantics-builtin/the-accessibility-tree)
 
 ---
 
+### [why a11y](#why)
 
-### [prerequisites](#prereqs)
 
-Before getting started it's recommended you understand the following:
-* [semantic HTML](https://developer.mozilla.org/en-US/docs/Glossary/Semantics#Semantics_in_HTML)
-* [refs in react](https://reactjs.org/docs/refs-and-the-dom.html)
-* [browser events](https://developer.mozilla.org/en-US/docs/Web/Guide/Events/Event_handlers) and [handling events in react](https://reactjs.org/docs/handling-events.html)
+---
+
+### [gotchas](#gotchas)
+
 
 ---
 
