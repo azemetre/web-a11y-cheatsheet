@@ -1,7 +1,7 @@
 # React + a11y Cheatsheet
 #### ([cause I can't go a day without you](https://www.youtube.com/watch?v=3xDzUFNbDy0#t=1m24s))
 
-![MIT license badge](https://img.shields.io/github/license/azemetre/react-a11y-cheatsheet)
+![MIT license badge](https://img.shields.io/github/license/azemetre/react-a11y-cheatsheet) ![contributor count](https://img.shields.io/github/contributors/azemetre/react-a11y-cheatsheet)
 ---
 Cheatsheet for React developers getting started with a11y.
 
