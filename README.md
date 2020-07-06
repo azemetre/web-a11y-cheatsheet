@@ -56,9 +56,9 @@ Surveys done by WebAIM are a treasure trove of insight when assessing what types
 * The top 3 screen readers actively used on desktop/laptop: NVDA at 72%, JAWS at 61%, and VoiceOver at 47%,
 * Most common screen reader and browser combinations: JAWS with Chrome at 21%, NVDA with Firefox at 19%, NVDA with Chrome at 18%, JAWS with Internet Explorer at 11%, VoiceOver with Safari at 9%
 * What is your primary mobile/tablet platform: Apple iPhone, iPad, or iPod touch at 69% and Android at 27%
-* Mobile screen reaers used: VoiceOver at 71%, TalkBack for Android at 33%
+* Mobile screen readers used: VoiceOver at 71%, TalkBack for Android at 33%
 
-While JAWS is a paid tool, usage of NVDA and VoiceOver are more than sufficient to cover the largest audience for both mobile and non-mobile platforms.
+While JAWS is a paid tool, usage of NVDA and VoiceOver are more than sufficient to cover the largest audience for both mobile and non-mobile platforms. This provides the most coverage for the least costs.
 
 [NVDA is freely available on Windows](https://www.nvaccess.org/)
 
