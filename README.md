@@ -3,7 +3,7 @@
 
 ![MIT license badge](https://img.shields.io/github/license/azemetre/react-a11y-cheatsheet) ![contributor count](https://img.shields.io/github/contributors/azemetre/react-a11y-cheatsheet)
 ---
-Cheatsheet for React developers getting started with a11y.
+Cheatsheet for Web developers getting started with a11y.
 
 a11y is a [numeronym](https://en.wikipedia.org/wiki/Numeronym) for accessibility. Pretty neat.
 
@@ -13,7 +13,6 @@ WIP for now, but the need is real.
 Table of contents:
 * [prerequisites](#prereqs)
 * [why a11y?](#why)
-* [gotchas](#gotchas)
 * [assistive technology](#at)
 * [extensions, plugins, and tooling](#tools)
 * [free resources](#freeresources)
@@ -32,12 +31,6 @@ Before getting started it's recommended you understand the following:
 ---
 
 ### [why a11y](#why)
-
-
----
-
-### [gotchas](#gotchas)
-
 
 ---
 
@@ -76,6 +69,7 @@ While JAWS is a paid tool, usage of NVDA and VoiceOver are more than sufficient 
 #### Chrome Extensions
 * [axe - Web Accessibility Testing](https://chrome.google.com/webstore/detail/axe-web-accessibility-tes/lhdoppojpmngadmnindnejefpokejbdd)
 * [Accessibility Insights for Web](https://chrome.google.com/webstore/detail/accessibility-insights-fo/pbjjkligggfmakdaogkfomddhfmpjeni)
+  * [Accessibility Insights for Web Overview](https://accessibilityinsights.io/docs/en/web/overview)
 * [HTML5 Outliner](https://chrome.google.com/webstore/detail/html5-outliner/afoibpobokebhgfnknfndkgemglggomo)
 * [Color Contrast Analyzer](https://chrome.google.com/webstore/detail/color-contrast-analyzer/dagdlcijhfbmgkjokkjicnnfimlebcll)
 
@@ -100,6 +94,11 @@ While JAWS is a paid tool, usage of NVDA and VoiceOver are more than sufficient 
 * [Gov.uk Accessible Design System](https://design-system.service.gov.uk/accessibility/)
 * [Gov.uk Accessible Service Manual](https://www.gov.uk/service-manual/helping-people-to-use-your-service/making-your-service-accessible-an-introduction)
 
+##### Blogs
+* [Inclusive Components](https://inclusive-components.design/)
+* [Accessibility in Government](https://accessibility.blog.gov.uk/)
+* [a11y with Lindsey ](https://www.a11ywithlindsey.com/blog)
+
 #### Books
 * [Microsoft Inclusive Toolkit Manual (PDF)](https://download.microsoft.com/download/b/0/d/b0d4bf87-09ce-4417-8f28-d60703d672ed/inclusive_toolkit_manual_final.pdf)
 
@@ -114,6 +113,9 @@ While JAWS is a paid tool, usage of NVDA and VoiceOver are more than sufficient 
 * [Accessibility in JavaScript Applications by Marcy Sutton - frontendmasters.com](https://frontendmasters.com/workshops/javascript-accessibility/)
 * [Deque University Full Curriculum - dequeuniveristy.com](https://dequeuniversity.com/curriculum/packages/full)
 * [Start Building Accessible Web Applications Today by Marcy Sutton - egghead.io](https://egghead.io/courses/start-building-accessible-web-applications-today)
+
+#### Books
+* [Inclusive Components: The Book](http://book.inclusive-components.design/)
 
 **PLEASE NOTE:** I do not know or work with the above people or organizations, simply recommending good resources.
 
