@@ -98,6 +98,7 @@ While JAWS is a paid tool, usage of NVDA and VoiceOver are more than sufficient 
 * [Inclusive Components](https://inclusive-components.design/)
 * [Accessibility in Government](https://accessibility.blog.gov.uk/)
 * [a11y with Lindsey ](https://www.a11ywithlindsey.com/blog)
+* [Journey of a Disabled Web Developer](https://ashleemboyer.com/)
 
 #### Books
 * [Microsoft Inclusive Toolkit Manual (PDF)](https://download.microsoft.com/download/b/0/d/b0d4bf87-09ce-4417-8f28-d60703d672ed/inclusive_toolkit_manual_final.pdf)
