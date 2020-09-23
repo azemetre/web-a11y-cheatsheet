@@ -22,11 +22,11 @@ Table of contents:
 
 ### [prerequisites](#prereqs)
 
-Before getting started it's recommended you understand the following:
+Before getting started it's recommended you are familiar the following, this is introduce the concepts of how HTML and JavaScript can impact a11y:
 * [semantic HTML](https://developer.mozilla.org/en-US/docs/Glossary/Semantics#Semantics_in_HTML)
 * [browser events](https://developer.mozilla.org/en-US/docs/Web/Guide/Events/Event_handlers)
-* [How accessibility trees inform assistive tech](https://reactjs.org/docs/refs-and-the-dom.html)
 * [the accessibility tree](https://developers.google.com/web/fundamentals/accessibility/semantics-builtin/the-accessibility-tree)
+* [how accessibility trees inform assistive tech](https://hacks.mozilla.org/2019/06/how-accessibility-trees-inform-assistive-tech/)
 
 ---
 
@@ -57,9 +57,13 @@ While JAWS is a paid tool, usage of NVDA and VoiceOver are more than sufficient 
 
 #### How to set up various voice over tools, enable keyboard accessibility, and keyboard shortcuts
 [NVDA Keyboard Shortcuts](https://dequeuniversity.com/screenreaders/nvda-keyboard-shortcuts)
-[Talkback Gestures on Android](Talkback Gestures on Android)
+
+[Talkback Gestures on Android](https://dequeuniversity.com/screenreaders/talkback-shortcuts)
+
 [VoiceOver Keyboard Shortcuts on a Mac](https://dequeuniversity.com/screenreaders/voiceover-keyboard-shortcuts)
+
 [VoiceOver Gestures on iOS](https://dequeuniversity.com/screenreaders/voiceover-ios-shortcuts)
+
 [Enabling Keyboard Accessibility on a Mac](https://dequeuniversity.com/mac/keyboard-access-mac)
 
 ---
