@@ -85,6 +85,10 @@ While JAWS is a paid tool, usage of NVDA and VoiceOver are more than sufficient 
 * [axe-core](https://github.com/dequelabs/axe-core)
 * [jest-axe](https://github.com/nickcolley/jest-axe)
 * [cypress-axe](https://github.com/avanslaars/cypress-axe)
+* [axe-playwright](https://github.com/abhinaba-ghosh/axe-playwright)
+* [jest-puppeteer-axe](https://github.com/WordPress/gutenberg/tree/master/packages/jest-puppeteer-axe)
+* [axe-puppeteer](https://github.com/dequelabs/axe-puppeteer)
+* [react-axe](https://github.com/dequelabs/react-axe)
 * [tota11y](https://github.com/Khan/tota11y)
 * [lighthouse](https://github.com/GoogleChrome/lighthouse)
 
@@ -95,6 +99,7 @@ While JAWS is a paid tool, usage of NVDA and VoiceOver are more than sufficient 
 #### Sites
 * [Learn Accessibility by MDN](https://developer.mozilla.org/en-US/docs/Learn/Accessibility)
 * [Microsoft Inclusive Design Methodology](https://www.microsoft.com/design/inclusive/)
+* [Inclusive Design Principles](https://inclusivedesignprinciples.org/)
 * [Gov.uk Accessible Design System](https://design-system.service.gov.uk/accessibility/)
 * [Gov.uk Accessible Service Manual](https://www.gov.uk/service-manual/helping-people-to-use-your-service/making-your-service-accessible-an-introduction)
 
