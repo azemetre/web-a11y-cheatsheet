@@ -102,6 +102,8 @@ While JAWS is a paid tool, usage of NVDA and VoiceOver are more than sufficient 
 * [Inclusive Design Principles](https://inclusivedesignprinciples.org/)
 * [Gov.uk Accessible Design System](https://design-system.service.gov.uk/accessibility/)
 * [Gov.uk Accessible Service Manual](https://www.gov.uk/service-manual/helping-people-to-use-your-service/making-your-service-accessible-an-introduction)
+* [accessibilitysupported/a11ysupport.io](https://github.com/accessibilitysupported/a11ysupport.io)
+* [w3c/silver](https://github.com/w3c/silver)
 
 ##### Blogs
 * [Inclusive Components](https://inclusive-components.design/)
