@@ -77,11 +77,16 @@ While JAWS is a paid tool, usage of NVDA and VoiceOver are more than sufficient 
 * [HTML5 Outliner](https://chrome.google.com/webstore/detail/html5-outliner/afoibpobokebhgfnknfndkgemglggomo)
 * [Color Contrast Analyzer](https://chrome.google.com/webstore/detail/color-contrast-analyzer/dagdlcijhfbmgkjokkjicnnfimlebcll)
 
+#### Firefox Extensions
+* [WAVE Accessibility Tool](https://addons.mozilla.org/en-US/firefox/addon/wave-accessibility-tool/)
+* [axe - Web Accessibility Testing](https://addons.mozilla.org/en-US/firefox/addon/axe-devtools/)
+* [a11y-outline](https://addons.mozilla.org/en-US/firefox/addon/a11y-outline/)
+
 ### Plugins
 * [eslint-plugin-jsx](https://github.com/jsx-eslint/eslint-plugin-jsx-a11y#readme)
 * [storybook-addon-a11y](https://github.com/storybookjs/storybook/tree/next/addons/a11y)
 
-#### Tooling
+#### Automated Tooling
 * [axe-core](https://github.com/dequelabs/axe-core)
 * [jest-axe](https://github.com/nickcolley/jest-axe)
 * [cypress-axe](https://github.com/avanslaars/cypress-axe)
@@ -111,6 +116,9 @@ While JAWS is a paid tool, usage of NVDA and VoiceOver are more than sufficient 
 * [a11y with Lindsey ](https://www.a11ywithlindsey.com/blog)
 * [Journey of a Disabled Web Developer](https://ashleemboyer.com/)
 
+##### Posts
+* [Firefox Dev Tools - Accessibility Inspector](https://developer.mozilla.org/en-US/docs/Tools/Accessibility_inspector)
+
 #### Books
 * [Microsoft Inclusive Toolkit Manual (PDF)](https://download.microsoft.com/download/b/0/d/b0d4bf87-09ce-4417-8f28-d60703d672ed/inclusive_toolkit_manual_final.pdf)
 
@@ -127,7 +135,8 @@ While JAWS is a paid tool, usage of NVDA and VoiceOver are more than sufficient 
 * [Start Building Accessible Web Applications Today by Marcy Sutton - egghead.io](https://egghead.io/courses/start-building-accessible-web-applications-today)
 
 #### Books
-* [Inclusive Components: The Book](http://book.inclusive-components.design/)
+* [Inclusive Components: The Book by Heydon Pickering](http://book.inclusive-components.design/)
+* [The Bootcampers Guide To Web Accessibilty by Lindsey Kopacz](https://a11y-with-lindsey.ck.page/products/pre-order-the-bootcampers-guide-to-web)
 
 **PLEASE NOTE:** I do not know or work with the above people or organizations, simply recommending good resources.
 
