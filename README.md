@@ -68,7 +68,7 @@ If you are able to fully navigate your site or application with a keyboard and s
 
 When you run into accessibility violations, they are normally triaged as browser bugs. Handle the edge cases and regressions as they come in, triage accordingly and document what combination of browser and screen reader are having the issue. If an issue arises with JAWS and Firefox, now you can justify buying a JAWS license for that specific edge case.
 
-While ideally it would be best to have sufficient user research (people with disabilities and without) and sufficient budgetting to allow a variety of hardware and software mixtures (to account for the variety of combinations) we can make due by being pragmatic in the tools and strategies we choose.
+While ideally it would be best to have sufficient user research (people with disabilities and without) and sufficient budgeting to allow a variety of hardware and software mixtures (to account for the variety of combinations) we can make due by being pragmatic in the tools and strategies we choose.
 
 By focusing on keyboard accessibility and ensuring the screen readers NVDA and VoiceOver are both able to fully navigate your site/app you're
 
