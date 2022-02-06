@@ -1,7 +1,7 @@
 # Web a11y Cheatsheet
 #### ([cause I can't go a day without you](https://www.youtube.com/watch?v=3xDzUFNbDy0#t=1m24s))
 
-![MIT license badge](https://img.shields.io/github/license/azemetre/react-a11y-cheatsheet) ![contributor count](https://img.shields.io/github/contributors/azemetre/react-a11y-cheatsheet)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) ![contributor count](https://img.shields.io/github/contributors/azemetre/react-a11y-cheatsheet)
 ---
 Cheatsheet for Web developers getting started with a11y.
 
@@ -32,6 +32,10 @@ Before getting started it's recommended you are familiar the following, this is 
 
 ### [why a11y](#why)
 
+Accessibility standards are becoming more dominant, not just legally, but are also actively becoming part of standard development, design, and product workflows.
+
+While an immediate benefit of having a compliant site/app, other benefits when having an effective a11y standards are easier automation and testing.
+
 ---
 
 ### [assistive technology](#at)
@@ -42,18 +46,35 @@ Many of these technologies can change the way a website is displayed or how a us
 #### Common Usage
 Screen readers are a typical use case of AT.
 
-#### [WebAIM 2019 Screen Reader Survey](https://webaim.org/projects/screenreadersurvey8/)
+#### [WebAIM 2021 Screen Reader Survey](https://webaim.org/projects/screenreadersurvey9/)
 Surveys done by WebAIM are a treasure trove of insight when assessing what types of tools and platforms you should be targeting to make a11y compliant sites. Some of the key take aways:
-* 71.% of respondents exclusively rely on screen reader audio for their usage.
-* For all major platforms (Desktop, Laptop, Mobile device/Tablet) more respondants use screen readers, ranging from 67% to 86%.
-* The top 3 screen readers actively used on desktop/laptop: NVDA at 72%, JAWS at 61%, and VoiceOver at 47%,
-* Most common screen reader and browser combinations: JAWS with Chrome at 21%, NVDA with Firefox at 19%, NVDA with Chrome at 18%, JAWS with Internet Explorer at 11%, VoiceOver with Safari at 9%
-* What is your primary mobile/tablet platform: Apple iPhone, iPad, or iPod touch at 69% and Android at 27%
-* Mobile screen readers used: VoiceOver at 71%, TalkBack for Android at 33%
+* ["Respondents without disabilities tend to be more positive about recent progress (47.4% thought it has become more accessible) than those with disabilities (38.6% thought it has become more accessible)"](https://webaim.org/projects/screenreadersurvey9/#progress)
+* [79.5% of respondents have blindness as a disability](https://webaim.org/projects/screenreadersurvey9/#disabilitytypes)
+* [Chrome is the majority browser used for screen readers (53.6%) followed by MS Edge (18.4%)](https://webaim.org/projects/screenreadersurvey9/#browsers)
+* [The top 3 screen readers actively used on desktop/laptop: JAWS at 70%, NVDA at 58.8%, and VoiceOver at 41.3%](https://webaim.org/projects/screenreadersurvey9/#used)
+* [Most common browser combinations for the leading screen readers: JAWS with Chrome at 32.5%, NVDA with Chrome at 16%, VoiceOver with Safari	4.7%](https://webaim.org/projects/screenreadersurvey9/#browsercombos)
+* [What is your primary mobile/tablet platform: Apple iPhone, iPad, or iPod touch at 71.9% and Android at 25.8%](https://webaim.org/projects/screenreadersurvey9/#mobileplatforms)
+* [Mobile screen readers used: VoiceOver at 71.5%, TalkBack for Android at 29.1%](https://webaim.org/projects/screenreadersurvey9/#mobilescreenreaders)
 
 While JAWS is a paid tool, usage of NVDA and VoiceOver are more than sufficient to cover the largest audience for both mobile and non-mobile platforms. This provides the most coverage for the least costs.
 
 [NVDA is freely available on Windows](https://www.nvaccess.org/)
+
+#### Why not focus on JAWS?
+
+A good strategy on how to prepare for a compliant site/app is to target with tools that are freely available. This is done solely to be pragmatic.
+
+If you are able to fully navigate your site or application with a keyboard and screen readers such as NVDA or VoiceOver you're in a good position.
+
+When you run into accessibility violations, they are normally triaged as browser bugs. Handle the edge cases and regressions as they come in, triage accordingly and document what combination of browser and screen reader are having the issue. If an issue arises with JAWS and Firefox, now you can justify buying a JAWS license for that specific edge case.
+
+While ideally it would be best to have sufficient user research (people with disabilities and without) and sufficient budgetting to allow a variety of hardware and software mixtures (to account for the variety of combinations) we can make due by being pragmatic in the tools and strategies we choose.
+
+By focusing on keyboard accessibility and ensuring the screen readers NVDA and VoiceOver are both able to fully navigate your site/app you're
+
+---
+
+[Be aware that JAWS usage is highly regional. Australia and North America tend to have more JAWS usage versus Europe, Asia, Africa, and the Middle East which slightly favor NVDA usage.](https://webaim.org/projects/screenreadersurvey9/#primary)
 
 #### How to set up various voice over tools, enable keyboard accessibility, and keyboard shortcuts
 [NVDA Keyboard Shortcuts](https://dequeuniversity.com/screenreaders/nvda-keyboard-shortcuts)
