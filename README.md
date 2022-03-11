@@ -112,6 +112,7 @@ By focusing on keyboard accessibility and ensuring the screen readers NVDA and V
 * [jest-axe](https://github.com/nickcolley/jest-axe)
 * [cypress-axe](https://github.com/avanslaars/cypress-axe)
 * [axe-playwright](https://github.com/abhinaba-ghosh/axe-playwright)
+* [EqualAccess](https://github.com/IBMa/equal-access)
 * [jest-puppeteer-axe](https://github.com/WordPress/gutenberg/tree/master/packages/jest-puppeteer-axe)
 * [axe-puppeteer](https://github.com/dequelabs/axe-puppeteer)
 * [react-axe](https://github.com/dequelabs/react-axe)
