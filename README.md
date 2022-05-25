@@ -32,9 +32,9 @@ Before getting started it's recommended you are familiar the following, this is 
 
 ### [why a11y](#why)
 
-Accessibility standards are becoming more dominant, not just legally, but are also actively becoming part of standard development, design, and product workflows.
+Accessibility standards are becoming more critical, not just legally, but are also actively becoming part of standard development, design, and product workflows.
 
-While an immediate benefit of having a compliant site/app, other benefits when having an effective a11y standards are easier automation and testing.
+While an immediate benefit is having a compliant site/app, other benefits include easier automation, testing, and customer support.
 
 ---
 
@@ -70,7 +70,7 @@ When you run into accessibility violations, they are normally triaged as browser
 
 While ideally it would be best to have sufficient user research (people with disabilities and without) and sufficient budgeting to allow a variety of hardware and software mixtures (to account for the variety of combinations) we can make due by being pragmatic in the tools and strategies we choose.
 
-By focusing on keyboard accessibility and ensuring the screen readers NVDA and VoiceOver are both able to fully navigate your site/app you're
+By focusing on keyboard navigation and ensuring both screen readers NVDA and VoiceOver are able to fully navigate your site/app you're in a position to prove good faith.
 
 ---
 
